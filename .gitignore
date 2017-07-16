@@ -1,0 +1,65 @@
+# Compiled source #
+###################
+*.com
+*.class
+*.dll
+*.exe
+*.o
+*.so
+ 
+# Packages #
+############
+# it's better to unpack these files and commit the raw source
+# git has its own built in compression methods
+*.7z
+*.dmg
+*.gz
+*.iso
+*.jar
+*.ear
+*.war
+*.rar
+*.tar
+*.zip
+ 
+# Logs and databases #
+######################
+*.log
+*.sqlite
+doc/
+ 
+# OS generated files #
+######################
+.DS_Store
+.DS_Store?
+._*
+.Spotlight-V100
+.Trashes
+ehthumbs.db
+Thumbs.db
+
+# IDE specific files #
+######################
+*.prefs
+*.classpath
+*.project
+*.metadata
+*.gradle
+target/
+*.tmp
+local.properties
+.settings/
+*\bin*
+*.launch
+.project
+.pmd
+.checkstyle
+.prefs
+.classpath
+.eclipse-pmd
+*.idea
+logs/
+*.iml
+/.apt_generated/
+.factorypath
+.recommenders/index/http___download_eclipse_org_recommenders_models_mars_/
